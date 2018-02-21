@@ -3,9 +3,9 @@
 All the lectures are covered inside a notebook
 
 ## Topics
-- [Lecture 1](https://nbviewer.jupyter.org/github/quellobiondo/python-course-ubinet/blob/master/ipynb/L4%20-%20dir%2C%20tuples%2C%20dict%2C%20if%2C%20loops.ipynb)
+- [Lecture 1](https://nbviewer.jupyter.org/github/quellobiondo/python-course-ubinet/blob/master/ipynb/L1%20-%20installation%20anaconda.ipynb)
   - Installation Anaconda and Notebook
-- [Lecture 2](https://nbviewer.jupyter.org/github/quellobiondo/python-course-ubinet/blob/master/ipynb/L4%20-%20dir%2C%20tuples%2C%20dict%2C%20if%2C%20loops.ipynb)
+- [Lecture 2](https://nbviewer.jupyter.org/github/quellobiondo/python-course-ubinet/blob/master/ipynb/L2%20-%20help%2C%20dir%2C%20string%2C%20format.ipynb)
   - Helper methods
   - Strings
   - String format
