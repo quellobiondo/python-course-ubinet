@@ -2,6 +2,12 @@
 
 All the lectures are covered inside a notebook
 
+How to read them? 
+You can: 
+- Click on the following links
+- Or copy the URL of the python notebook and use it in [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/)
+- Or clone all the repository and run it on your local jupiter
+
 ## Topics
 - [Lecture 1](https://nbviewer.jupyter.org/github/quellobiondo/python-course-ubinet/blob/master/ipynb/L1%20-%20installation%20anaconda.ipynb)
   - Installation Anaconda and Notebook
