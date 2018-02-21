@@ -16,7 +16,7 @@ You can:
   - Strings
   - String format
   - Encoding
-- [Lecture 3]()
+- [Lecture 3](https://nbviewer.jupyter.org/github/quellobiondo/python-course-ubinet/blob/master/ipynb/L3%20-%20list.ipynb)
   - Lists
   - DeepCopy - ShallowCopy
 - [Lecture 4](https://nbviewer.jupyter.org/github/quellobiondo/python-course-ubinet/blob/master/ipynb/L4%20-%20dir%2C%20tuples%2C%20dict%2C%20if%2C%20loops.ipynb)
