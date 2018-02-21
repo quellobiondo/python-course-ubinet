@@ -31,3 +31,8 @@ You can:
     - If
     - For
   - Comprehensions in Python
+- Lecture 5
+  - TOR
+  - P2P project to analyze the code of the torrent python client
+  - Privacy
+  - Discussion on security
